@@ -1,30 +1,46 @@
-### Olá, eu sou Guilherme 👋
+### Hi there 👋, I'm [Guilherme](https://github.com/aman-atg) 👨‍💻
 
-- 🔭 Sou formado em eng. civil e estudante de desenvolvimento de sistemas
-- 🌱 Estou aprendendo Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-coutinho-de-moura-3b9137192/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:coutinhodemouraguilherme@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:coutinhodemouraguilherme@gmail.com"
+><img src="https://img.shields.io/badge/-Telegram-D14836?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
+&emsp;
+
+<br />
+
+<br/>
+
+<p>
+A Beginner Web Developer 🚀 from Brazil. Always working on some project or learning something new!
+<br/>
+I Want to work full-time 💸 and contribute with Open Source Projects ❤️.
+</p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  
+### ✨ Quick Facts
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+- 👨🏽‍💻 I’m currently working on my web development skills (JavaScript).
+- 🌱 I’m currently learning PHP and Python.
+- 🎿 Hobbies other than coding : Playing basketball ⛹, watchinhg anime and series 📺, drawing ✏, playing videogames 🎮.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### 🛠️ Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)o=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
+![GitHub](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
