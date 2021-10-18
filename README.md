@@ -37,6 +37,6 @@ I Want to work full-time 💸 and contribute with Open Source Projects ❤️.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![GitHub](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![GitHub](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![GitHub](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
 
 
