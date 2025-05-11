@@ -1,42 +1,61 @@
-### Hi there 👋, I'm [Guilherme](https://github.com/CoutinhoGuilherme) 👨‍💻
+# Hi there, I'm  Guilherme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<br/>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-<a href="https://www.linkedin.com/in/guilherme-coutinho-de-moura-3b9137192/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="mailto:coutinhodemouraguilherme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a href="https://t.me/Kingblackpantherrrr"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
-<br/>
-<br/>
+## I'm a Fullstack Developer
 
-<p>
-A Beginner Web Developer 🚀 from Brazil. Always working on some project or learning something new!
-<br/>
-<br/>
-I Want to work full-time 💸 and contribute with Open Source Projects ❤️.
-</p>
+- 🌱 I am currently learning more about backend development.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-  
-### ✨ Quick Facts
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoutinhoGuilherme)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-coutinho-de-moura-3b9137192/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:coutinhodemouraguilherme@gmail.com)
 
-- 👨🏽‍💻 I’m currently working on my web development skills (JavaScript).
-- 🌱 I’m currently learning PHP and Python.
-- 🎿 Hobbies other than coding : Playing basketball ⛹, watchinhg anime and series 📺, drawing ✏, playing videogames 🎮.
+---
 
-### 🛠️ Languages and Tools:
+### Spotify Playing 🎧
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![GitHub](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/2t8yVaLvJ0RenpXUIAC52d?si=932312eb56e240b2)
+
+---
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
+🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 10/05/2025 18:45:08 UTC
+<!--END_SECTION:waka-->
+
+
+---
+
+
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
