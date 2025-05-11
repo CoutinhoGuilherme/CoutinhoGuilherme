@@ -2,9 +2,7 @@
 
 ## I'm a Fullstack Developer 👨🏿‍💻
 
----
-
-## About Me
+### About Me
 
 - 📍 I'm from Brazil
 - 👨🏿‍💻 Love Programming
