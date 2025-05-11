@@ -1,10 +1,17 @@
 # Hi there, I'm  Guilherme <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+## I'm a Fullstack Developer 👨🏿‍💻
 
-## I'm a Fullstack Developer
+---
 
-- 🌱 I am currently learning more about backend development.
+## About Me
+
+- 📍 I'm from Brazil
+- 👨🏿‍💻 Love Programming
+- 👨🏿‍🎓 FATEC's student
+- 🏀 Love Basketball
+- 🏔️ Hiking/Trekking
+
 
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoutinhoGuilherme)
@@ -16,6 +23,9 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/2t8yVaLvJ0RenpXUIAC52d?si=932312eb56e240b2)
+
+---
+
 
 ---
 
